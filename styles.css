@@ -1,0 +1,12 @@
+.winner {
+  color: green;
+}
+
+.loser {
+  color: red;
+}
+
+.disabled {
+  /* Disable button instead of hiding */
+  display: none;
+}
